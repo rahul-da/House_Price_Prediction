@@ -1,0 +1,7 @@
+README
+for executing each file copy the code file and the data file (kc_house_data.csv.xlsx) is the same folder.
+Move your working directory to the location where the code is placed.
+Then in the terminal type   "  python part1.py "   
+
+Names of variables have been named according to what they store.
+Specific parts have been commemted. If you uncomment you could get that particular output.
